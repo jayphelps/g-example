@@ -1,3 +1,7 @@
+import { registerElement, reflectToAttribute } from 'graffiti';
+
+export default
+@registerElement()
 class MyCounterComponent extends HTMLElement {
   @reflectToAttribute()
   counter = 0;
