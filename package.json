@@ -1,0 +1,15 @@
+{
+  "name": "graffiti-example",
+  "version": "0.0.1",
+  "description": "Example of a graffiti component with a simple node.js build script",
+  "scripts": {
+    "build": "rm -rf dist && node build.js"
+  },
+  "author": "Jay Phelps <hello@jayphelps.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^5.0.10",
+    "graffiti": "^0.1.3",
+    "mkdirp": "^0.5.1"
+  }
+}

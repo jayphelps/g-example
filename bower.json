@@ -1,0 +1,15 @@
+{
+  "name": "graffiti-example",
+  "version": "0.0.1",
+  "authors": [
+    "Jay Phelps <hello@jayphelps.com>"
+  ],
+  "description": "Example of a graffiti component with a simple node.js build script",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "graffiti": "~0.1.2"
+  }
+}
