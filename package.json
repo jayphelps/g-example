@@ -9,7 +9,7 @@
   "license": "MIT",
   "devDependencies": {
     "glob": "^5.0.10",
-    "graffiti": "^0.1.5",
+    "graffiti": "^0.1.6",
     "mkdirp": "^0.5.1"
   }
 }
